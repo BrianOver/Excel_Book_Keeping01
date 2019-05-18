@@ -1,0 +1,146 @@
+Transfer To Checking | 07 | 11 | 2018 | T | Transfer | 325 | Spending Money | Savings | Checking | 
+Work Pay | 07 | 11 | 2018 | In | Deposit | 8086 | Work Pay |   | Savings | 
+WOW - Video Game | 07 | 11 | 2018 | C | Credit | 21 | Fun |   |   | 
+Reliant - Bill | 07 | 11 | 2018 | Out | Debit | 116 | Bills | Checking |   | 
+Taco Bell - Food | 07 | 11 | 2018 | C | Credit | 4 | Food |   |   | 
+Sam's Club - Gas | 07 | 11 | 2018 | Out | Transfer | 23 | Checking |   | 
+Work Pay | 07 | 11 | 2018 | In | Deposit | 9533 | Work Pay |   | Checking | 
+Reliant - Bill | 07 | 11 | 2018 | Out | Cash | 59 | Bills | Checking |   | 
+Transfer To Checking | 07 | 11 | 2018 | T | Transfer | 256 | Spending Money | Savings | Checking | 
+Transfer To Checking | 07 | 11 | 2018 | T | Transfer | 103 | Spending Money | Savings | Checking | 
+Work Pay | 07 | 11 | 2018 | In | Deposit | 8395 | Work Pay |   | Savings | 
+WOW - Video Game | 07 | 11 | 2018 | C | Credit | Fun |   |   | 
+Credit Card - Payment | 07 | 11 | 2018 | Out | Transfer | 269 | Savings |   | 
+Steam - Video Game | 07 | 11 | 2018 | Out | Debit | 30 | 133 | Fun | Checking |   | 
+Credit Card - Payment | 07 | 11 | 2018 | Out | Transfer | 201 | Checking |   | 
+Five Below - Groceries | 07 | 11 | 2018 | C | Credit | 52 | Groceries |   |   | 
+Transfer To Checking | 07 | 11 | 2018 | T | Transfer | 225 | Spending Money | Savings | Checking | 
+Star - Girl | 07 | 11 | 2018 | Out | Transfer | 19 | Checking |   | 
+Sam's Club - Gas | 07 | 11 | 2018 | Out | Transfer | 3 | Checking |   | 
+Money from Family | 07 | 11 | 2018 | In | Check | 466 | Gift |   | Savings | 
+Work Pay | 11 | 11 | 2018 | In | Deposit | 12276 | Work Pay |   | Savings | 
+Repair - Car | 11 | 11 | 2018 | C | Credit | 7 | Bills |   |   | 
+Target - Groceries | 11 | 11 | 2018 | Out | Cash | 133 | Groceries | Checking |   | 
+Steam - Video Game | 11 | 11 | 2018 | Out | Debit | 65 | Fun | Checking |   | 
+Money from Family | 11 | 11 | 2018 | In | Check | 107 | Gift |   | Savings | 
+Money from Family | 11 | 11 | 2018 | In | Deposit | 55 | Gift |   | Checking | 
+Transfer To Checking | 11 | 11 | 2018 | T | Transfer | 95 | Spending Money | Savings | Checking | 
+Work Pay | 11 | 11 | 2018 | In | Deposit | 11710 | Work Pay |   | Savings | 
+Apartment - Bill | 11 | 11 | 2018 | Out | Debit | 1402 | Bills | Checking |   | 
+Money from Family | 11 | 11 | 2018 | In | Cash | 166 | Gift |   | Savings | 
+QT - Gas | 13 | 11 | 2018 | C | Credit | 19 |   |   | 
+Steam - Video Game | 13 | 11 | 2018 | Out | Debit | 30 | 4 | Fun | Checking |   | 
+Transfer To Checking | 13 | 11 | 2018 | T | Transfer | 87 | Spending Money | Savings | Checking | 
+WOW - Video Game | 13 | 11 | 2018 | Out | Debit | Fun | Checking |   | 
+Work Pay | 13 | 11 | 2018 | In | Deposit | 5531 | Work Pay |   | Checking | 
+Credit Card - Payment | 13 | 11 | 2018 | Out | Transfer | 466 | Savings |   | 
+Money from Family | 13 | 11 | 2018 | In | Transfer | 271 | Gift |   | Savings | 
+Transfer To Checking | 13 | 11 | 2018 | T | Transfer | 237 | Spending Money | Savings | Checking | 
+QT - Gas | 13 | 11 | 2018 | C | Credit | 4 |   |   | 
+Kroger - Groceries | 13 | 11 | 2018 | C | Credit | 115 | Groceries |   |   | 
+Credit Card - Payment | 14 | 11 | 2018 | Out | Transfer | 231 | Checking |   | 
+Target - Groceries | 14 | 11 | 2018 | C | Credit | 118 | Groceries |   |   | 
+Transfer To Checking | 14 | 11 | 2018 | T | Transfer | 244 | Spending Money | Savings | Checking | 
+Steam - Video Game | 14 | 11 | 2018 | Out | Cash | 25 | 3 | Fun | Checking |   | 
+WOW - Video Game | 14 | 11 | 2018 | Out | Transfer | Fun | Checking |   | 
+Credit Card - Payment | 14 | 11 | 2018 | Out | Transfer | 446 | Savings |   | 
+Taco Bell - Food | 14 | 11 | 2018 | Out | Cash | 17 | Food | Checking |   | 
+Accident - Car | 14 | 11 | 2018 | Out | Transfer | 2674 | Bills | Checking |   | 
+HBO - Bill | 14 | 11 | 2018 | Out | Debit | 10 | Bills | Checking |   | 
+Ramen - Food | 14 | 11 | 2018 | C | Credit | 9 | Food |   |   | 
+QT - Gas | 15 | 11 | 2018 | Out | Debit | 18 | Checking |   | 
+QT - Gas | 15 | 11 | 2018 | C | Credit | 18 |   |   | 
+Steam - Video Game | 15 | 11 | 2018 | Out | Transfer | 66 | 2 | Fun | Checking |   | 
+QT - Gas | 15 | 11 | 2018 | Out | Transfer | 1 | Checking |   | 
+Texco - Gas | 15 | 11 | 2018 | C | Credit | 8 |   |   | 
+Work Pay | 15 | 11 | 2018 | In | Deposit | 3535 | Work Pay |   | Savings | 
+QT - Gas | 15 | 11 | 2018 | Out | Debit | 7 | Checking |   | 
+Walmart - Groceries | 15 | 11 | 2018 | C | Credit | 31 | Groceries |   |   | 
+Dominos' - Food | 15 | 11 | 2018 | C | Credit | 11 | Food |   |   | 
+RaceTrack - Gas | 15 | 11 | 2018 | Out | Check | 23 | Checking |   | 
+Transfer To Checking | 16 | 11 | 2018 | T | Transfer | 282 | Spending Money | Savings | Checking | 
+Humble Bundle - Video Game | 16 | 11 | 2018 | C | Credit | 17 | Fun |   |   | 
+Chinnese - Food | 16 | 11 | 2018 | C | Credit | 18 | Food |   |   | 
+Steam - Video Game | 16 | 11 | 2018 | Out | Transfer | 41 | Fun | Checking |   | 
+Dollar Shave Club - Groceries | 16 | 11 | 2018 | Out | Cash | 130 | Groceries | Checking |   | 
+Work Pay | 16 | 11 | 2018 | In | Deposit | 4932 | Work Pay |   | Savings | 
+Transfer To Checking | 16 | 11 | 2018 | T | Transfer | 91 | Spending Money | Savings | Checking | 
+Amazon - Groceries | 16 | 11 | 2018 | C | Credit | 114 | Groceries |   |   | 
+Credit Card - Payment | 16 | 11 | 2018 | Out | Transfer | 463 | Credit Card Payment |   |   | 
+Wendy's - Food | 16 | 11 | 2018 | Out | Debit | 13 | Food | Checking |   | 
+Netflex - Bill | 18 | 11 | 2018 | Out | Debit | 10 | Bills | Checking |   | 
+Money from Family | 18 | 11 | 2018 | In | Deposit | 471 | Gift |   | Savings | 
+Wendy's - Food | 18 | 11 | 2018 | Out | Check | 3 | Food | Checking |   | 
+Transfer To Savings | 18 | 11 | 2018 | T | Transfer | 238 | Savings Money | Checking | Savings | 
+Taco Bell - Food | 18 | 11 | 2018 | Out | Debit | 1 | Food | Checking |   | 
+Breanna - Girl | 18 | 11 | 2018 | C | Credit | 4 |   |   | 
+Reliant - Bill | 19 | 11 | 2018 | Out | Cash | 132 | Bills | Checking |   | 
+Money from Family | 19 | 11 | 2018 | In | Transfer | 493 | Gift |   | Savings | 
+Transfer To Savings | 19 | 11 | 2018 | T | Transfer | 88 | Savings Money | Checking | Savings | 
+Origen - Video Game | 19 | 11 | 2018 | Out | Check | Fun | Checking |   | 
+Papa John's - Food | 19 | 11 | 2018 | Out | Cash | 15 | Food | Checking |   | 
+Taco Bell - Food | 19 | 11 | 2018 | Out | Debit | 12 | Food | Checking |   | 
+Amazon - Groceries | 19 | 11 | 2018 | C | Credit | 119 | Groceries |   |   | 
+Car Wash - Car | 19 | 11 | 2018 | C | Credit | 13 | Bills |   |   | 
+Chinnese - Food | 25 | 11 | 2018 | Out | Debit | 1 | Food | Checking |   | 
+Wendy's - Food | 25 | 11 | 2018 | Out | Check | 19 | Food | Checking |   | 
+League of Legends - Video Game | 25 | 11 | 2018 | Out | Cash | 3 | Fun | Checking |   | 
+Texco - Gas | 26 | 11 | 2018 | Out | Debit | 6 | Gas | Checking |   | 
+
+2018/11/26 16:46:31
+Money from Family | 26 | 11 | 2018 | In | Cash | 53 | Gift |   | Checking | 
+WOW - Video Game | 26 | 11 | 2018 | C | Credit | 16 | Fun |   |   | 
+Papa John's - Food | 26 | 11 | 2018 | Out | Debit | 14 | Food | Checking |   | 
+Humble Bundle - Video Game | 26 | 11 | 2018 | Out | Debit | 168 | Fun | Checking |   | 
+
+2018/11/27 12:38:30
+Time Warner - Bill | 27 | 11 | 2018 | Out | Cash | 142 | Bills | Checking |   | 
+Transfer To Checking | 27 | 11 | 2018 | T | Transfer | 111 | Spending Money | Savings | Checking | 
+Verizon - Bill | 27 | 11 | 2018 | Out | Debit | 46 | Bills | Checking |   | 
+Humble Bundle - Video Game | 27 | 11 | 2018 | Out | Debit | 24 | Fun | Checking |   | 
+Mcdonalds - Food | 27 | 11 | 2018 | Out | Debit | 3 | Food | Checking |   | 
+
+2018/11/28 18:48:03
+Transfer To Savings | 28 | 11 | 2018 | T | Transfer | 221 | Savings Money | Checking | Savings | 
+GOG - Video Game | 28 | 11 | 2018 | Out | Cash | Fun | Checking |   | 
+QT - Gas | 28 | 11 | 2018 | C | Credit | 7 | Gas |   |   | 
+QT - Gas | 28 | 11 | 2018 | Out | Debit | 23 | Gas | Checking |   | 
+
+2018/11/30 20:55:57
+Money from Family | 30 | 11 | 2018 | In | Check | 530 | Gift |   | Savings | 
+Transfer To Checking | 30 | 11 | 2018 | T | Transfer | 309 | Spending Money | Savings | Checking | 
+Kroger - Groceries | 30 | 11 | 2018 | C | Credit | 33 | Groceries |   |   | 
+
+2018/12/01 10:57:45
+Dollar General - Groceries | 01 | 12 | 2018 | Out | Transfer | 52 | Groceries | Checking |   | 
+Taco Bell - Food | 01 | 12 | 2018 | C | Credit | 21 | Food |   |   | 
+Transfer To Checking | 01 | 12 | 2018 | T | Transfer | 146 | Spending Money | Savings | Checking | 
+Mcdonalds - Food | 01 | 12 | 2018 | Out | Debit | 16 | Food | Checking |   | 
+
+2018/12/02 18:10:36
+Dominos' - Food | 02 | 12 | 2018 | C | Credit | 8 | Food |   |   | 
+Amazon - Groceries | 02 | 12 | 2018 | C | Credit | 51 | Groceries |   |   | 
+Target - Groceries | 02 | 12 | 2018 | C | Credit | 157 | Groceries |   |   | 
+Steam - Video Game | 02 | 12 | 2018 | Out | Cash | 86 | Fun | Checking |   | 
+Transfer To Savings | 02 | 12 | 2018 | T | Transfer | 90 | Savings Money | Checking | Savings | 
+RaceTrack - Gas | 02 | 12 | 2018 | C | Credit | 12 | Gas |   |   | 
+Repair - Car | 02 | 12 | 2018 | Out | Debit | Bills | Checking |   | 
+Humble Bundle - Video Game | 02 | 12 | 2018 | Out | Debit | 173 | Fun | Checking |   | 
+Credit Card - Payment | 02 | 12 | 2018 | Out | Transfer | 402 | Credit Card Payment |   |   | 
+
+2018/12/06 10:52:08
+Credit Card - Payment | 06 | 12 | 2018 | Out | Transfer | 328 | Credit Card Payment |   |   | 
+Transfer To Savings | 06 | 12 | 2018 | T | Transfer | 131 | Savings Money | Checking | Savings | 
+Ramen - Food | 06 | 12 | 2018 | C | Credit | 11 | Food |   |   | 
+Credit Card - Payment | 06 | 12 | 2018 | Out | Transfer | 387 | Credit Card Payment |   |   | 
+NRG - Bill | 06 | 12 | 2018 | C | Credit | 126 | Bills |   |   | 
+Tires - Car | 06 | 12 | 2018 | Out | Debit | 289 | Bills | Checking |   | 
+Wendy's - Food | 06 | 12 | 2018 | C | Credit | 2 | Food |   |   | 
+GOG - Video Game | 06 | 12 | 2018 | C | Credit | 28 | Fun |   |   | 
+QT - Gas | 06 | 12 | 2018 | Out | Debit | 10 | Gas | Checking |   | 
+
+2018/12/08 12:02:42
+Car Wash - Car | 08 | 12 | 2018 | C | Credit | 1 | Bills |   |   | 
+Origen - Video Game | 08 | 12 | 2018 | Out | Transfer | 72 | Fun | Checking |   | 
+Sora - Girl | 08 | 12 | 2018 | C | Credit | 17 |   |   | 
+Money from Family | 08 | 12 | 2018 | In | Cash | 159 | Gift |   | Checking | 

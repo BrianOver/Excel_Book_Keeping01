@@ -1,0 +1,79 @@
+Gas
+QT
+QT
+QT
+RaceTrack
+Texco
+Sam's Club
+;
+Groceries
+Walmart
+Walmart
+Walmart
+Kroger
+Target
+Asian Market
+Dollar Shave Club
+QT
+Five Below
+Dollar General
+BestBuy
+Amazon
+Amazon
+;
+Video Game
+Steam
+Steam
+Steam
+Origen
+GOG
+Humble Bundle
+WOW
+WOW
+League of Legends
+;
+Bill
+Reliant
+NRG
+Apartment
+Apartment
+AT&T
+Verizon
+Time Warner
+Netflex
+HBO
+;
+Girl
+Breanna
+Ren
+Sora
+Star
+Calli
+;
+Food
+Taco Bell
+Mcdonalds
+Taco Bell
+Taco Bell
+Taco Bell
+Wendy's
+Chinnese
+Ramen
+Ramen
+WingStop
+Dominos'
+Papa John's
+;
+Car
+Car Wash
+Car Wash
+Oil
+Tires
+Repair
+Accident
+;
+Payment
+Credit Card
+;
+
+

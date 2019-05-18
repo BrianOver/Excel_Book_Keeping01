@@ -1,0 +1,4 @@
+Car Wash - Car;08;12;2018;C;Credit;1;Bills; ; ;
+Origen - Video Game;08;12;2018;Out;Transfer;72;Fun;Checking; ;
+Sora - Girl;08;12;2018;C;Credit;17; ; ;
+Money from Family;08;12;2018;In;Cash;159;Gift; ;Checking;
